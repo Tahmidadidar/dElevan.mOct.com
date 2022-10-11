@@ -2,7 +2,11 @@ body {font-family: "Lato", sans-serif;
 padding: 0;
 margin: 0;
 
+<<<<<<< HEAD
 background-image: url('/GitHub/dElevan.mOct.com/Necessary Photo/office/a (1).jpg');
+=======
+background-image: url('/Necessary Photo/office/a (1).jpg');
+>>>>>>> 88b23ccda80f49f08254dfe862e8524ed5546a12
 background-size: cover;
 background-position: center;
 background-repeat: no-repeat;

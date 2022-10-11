@@ -1,0 +1,82 @@
+body {font-family: "Lato", sans-serif;
+padding: 0;
+margin: 0;
+
+background-image: url('/didar html/project 5/Necessary Photo/office/a (1).jpg');
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+height:fit-content;
+cursor: none;
+}
+
+
+.tablink {
+  background-color: #555;
+  color: white;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: none;
+  padding: 7px 7px;
+  font-size: 14px;
+  width: 20%;
+ 
+ 
+}
+
+.tablink:hover {
+  background-color: #777;
+}
+
+/* Style the tab content */
+.tabcontent {
+  color: white;
+  display: none;
+  padding: 5px;
+  font-size: 15px;
+  text-align: center;
+}
+a{text-decoration: none;
+color:white;
+}
+
+#Colors{background-color:#6e92f3;}
+#Project5 {background-color:#9f3ca0;
+ }
+#Paris {background-color:#3f9571;}
+#Oslo {background-color:orange;}
+#hello {background-color: #75f0b5;}
+
+.background h1{
+  /*
+  font-family: sans-serif;
+  transform: translateY(-30%);
+  top: 50%;
+  text-align: right;
+  font-size: 10rem;
+  padding-right: 15px;
+  text-transform: uppercase;
+  color: rgb(255, 255, 255);
+  text-shadow: 0 5px 10px rgb(0, 0, 0, 1);
+  mix-blend-mode: overlay;
+  background-color: rgb(113, 150, 244);*/
+
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  transform: translateY(-40%, -50%);
+  background-color: rgb(246, 186, 97);
+  color: rgb(0, 0, 0);
+  padding: 5px;
+  border-radius: 5px;
+  margin: 0;
+  font-family: arial;
+  font-size: 5.3rem;
+  mix-blend-mode: screen;
+  box-shadow: 0 0 16px rgb(0, 0, 0), 0 0 32px rgb(0, 0, 0);
+  opacity: 0.5;
+
+}
+
+
